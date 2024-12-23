@@ -1,0 +1,29 @@
+{
+  "objectName" : "genomerianbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A large genomerian wallbanner from a genomerian academy.",
+  "shortdescription" : "Large genomerian Wall Banner",
+  "race" : "genomerian",
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large genomerian banner...",
+  "humanDescription" : "The genomerian banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "genomerianDescription" : "I am so happy to see the genomerian culture thrive",  
+  "inventoryIcon" : "genomerianbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "genomerianbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

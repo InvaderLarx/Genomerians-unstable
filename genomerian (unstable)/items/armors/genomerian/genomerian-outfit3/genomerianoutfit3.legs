@@ -1,0 +1,39 @@
+{
+  "itemName" : "genomerianoutfit3legs",
+  "price" : 35,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "legwear",
+  "description" : "some traditional genomerian scrubs for space station labs",
+  "shortdescription" : "Genomerian lab boots",
+  "tooltipKind" : "armor",
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  "colorOptions" : [
+    // BLUE
+    { "4b5362" : "344495", "3e4557" : "5588d4" },
+    // BLACK
+    { "4b5362" : "151515", "3e4557" : "383838" },
+    // GREY
+    { "4b5362" : "303030", "3e4557" : "555555" },
+    // WHITE
+    { "4b5362" : "4b5362", "3e4557" : "3e4557" },
+    // RED
+    { "4b5362" : "932625", "3e4557" : "d93a3a" },
+    // ORANGE
+    { "4b5362" : "af4e00", "3e4557" : "ea9931" },
+    // YELLOW
+    { "4b5362" : "a46e06", "3e4557" : "e2c344" },
+    // GREEN
+    { "4b5362" : "247824", "3e4557" : "51bd3b" },
+    // BLUE
+    { "4b5362" : "344495", "3e4557" : "5588d4" },
+    // PURPLE
+    { "4b5362" : "6a2284", "3e4557" : "a451c4" },
+    // PINK
+    { "4b5362" : "97276d", "3e4557" : "d35eae" },
+    // BROWN
+    { "4b5362" : "a85636", "3e4557" : "e0975c" }
+  ]
+}

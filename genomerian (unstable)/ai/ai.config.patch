@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/genomerian",
+		"value" : {
+			"aiFrames" : "genomerianAI.png",
+			"portraitFrames" : "portraits/genomerianportrait.png",
+			"staticFrames" : "staticgenomerian.png"	
+		}
+	}
+]

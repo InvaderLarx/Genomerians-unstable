@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/genomerian",
+		"value" : [
+		    "/ships/genomerian/genomeriant0.structure",
+			"/ships/genomerian/genomeriant1.structure",
+			"/ships/genomerian/genomeriant2.structure",
+			"/ships/genomerian/genomeriant3.structure",
+			"/ships/genomerian/genomeriant4.structure",
+			"/ships/genomerian/genomeriant5.structure",
+			"/ships/genomerian/genomeriant6.structure",
+			"/ships/genomerian/genomeriant7.structure",
+			"/ships/genomerian/genomeriant8.structure"
+		]
+	}
+]

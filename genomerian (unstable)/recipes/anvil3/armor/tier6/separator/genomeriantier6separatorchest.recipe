@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 20 },
+    { "item" : "genomeriantier5schest", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "genomeriantier6schest", "count" : 1 },
+  "groups" : [ "craftingseparator", "armours", "all" ]
+}

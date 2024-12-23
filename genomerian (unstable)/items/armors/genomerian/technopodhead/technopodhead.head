@@ -1,0 +1,52 @@
+{
+  "itemName" : "technopodhead",
+  "price" : 100,
+  "inventoryIcon" : "headicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "A mechanical isopod buddy on your head",
+  "shortdescription" : "technopod hat",
+  "tooltipKind" : "armor",
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+    "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    }
+  ],
+  
+  "colorOptions" : [
+    // WHITE
+    { "383838" : "383838", "5c5c5c" : "5c5c5c", "898989" : "898989", "cdcdcd" : "cdcdcd", "ececec" : "ececec" },
+    // BLACK
+    { "383838" : "000000", "5c5c5c" : "242424", "898989" : "363636", "cdcdcd" : "444444", "ececec" : "5c5c5c", "ffffff" : "8481b4FE", "c6c4e5" : "4f4c79FE", "1d1b2a" : "8481b4" },
+    // GREY
+    { "383838" : "2c2d39", "5c5c5c" : "4c4f60", "898989" : "6e718c", "cdcdcd" : "c1c2ce", "ececec" : "e9ebee" },
+    // RED
+    { "ffffff" : "ff9a79FE", "c6c4e5" : "ff494bFE" },
+    // ORANGE
+    { "383838" : "511e01", "5c5c5c" : "6f2919", "898989" : "a85636", "cdcdcd" : "e0975c", "ececec" : "fdcb89", "ffffff" : "ffffe2FE", "c6c4e5" : "fffe6cFE" },
+    // YELLOW
+    { "ffffff" : "ffffe2FE", "c6c4e5" : "fffe6cFE" },
+    // GREEN
+    { "ffffff" : "f2ffc9FE", "c6c4e5" : "b3ff41FE" },
+    // BLUE
+    { "ffffff" : "8061ffFE", "c6c4e5" : "3f3bd8FE" },
+    // PURPLE 
+    { "ffffff" : "a258ffFE", "c6c4e5" : "782bb4FE" },
+    // PINK
+    { "ffffff" : "ff9bccFE", "c6c4e5" : "d93a88FE" },
+    // BROWN
+    { "383838" : "511e01", "5c5c5c" : "6f2919", "898989" : "a85636", "cdcdcd" : "e0975c", "ececec" : "fdcb89", "ffffff" : "ffffffFE", "c6c4e5" : "c6c4e5" }
+  ]
+}

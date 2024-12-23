@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/genomerianStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"item" : [ "genomeriansword", 1 ]}
+      ]
+    }]]
+  }
+]

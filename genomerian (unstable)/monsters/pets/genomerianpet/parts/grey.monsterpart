@@ -1,0 +1,8 @@
+{
+  "name" : "grey",
+  "category" : "genomerianpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "grey.png"
+  }
+}

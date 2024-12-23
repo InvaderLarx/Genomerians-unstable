@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/genomerian",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/genomerian",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "genomerianpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}
